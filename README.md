@@ -1,4 +1,4 @@
-# 🌱 MSEED: Multidimensional Safety Evaluation and Enhancement Dataset for LLMs
+# 🌱 MSEED: Human Preference Dataset for Multidimensional Safety Enhancement and Evaluation of Large Language Models
 
 ## 🧩  Overview
 
@@ -25,14 +25,14 @@ To mitigate these issues, research institutions have developed safety alignment 
 
 MSEED is structured around **multi-dimensional safety categories**, including (but not limited to):
 
-| 分类维度         | 示例主题                                |
+| Classification Dimension         | Specific Scenarios                               |
 |------------------|-----------------------------------------|
-| Harmful Outputs   | Violence, self-harm, hate speech        |
-| Misinformation    | Health misinformation, fake news        |
-| Privacy Risks     | Personal data leakage, sensitive info   |
-| Ethical Misconduct| Unethical advice, manipulation tactics  |
-| Legal Risk        | Illegal activities, copyright violation |
-| Cultural Sensitivity | Biases, stereotypes, regional taboos |
+| Value Violation   | Inciting Subversion of State Power, Endangering National Security and Interests, Undermining National Unity and Social Stability, Promoting Terrorism and Extremism, Promoting Ethnic Hatred, Promotes Violence and Pornography, Spreading False and Harmful Information, Other Content Prohibited by Law      |
+| Content of Discrimination    | Health misinformation, fake news        |
+| Business Misconduct     | Personal data leakage, sensitive info   |
+| Rights Infringement | Unethical advice, manipulation tactics  |
+| Unsafe for Specific Services        | Violate Scientific Common Sense or Mainstream Cognition, Content without Serious Errors but Insufficient to Assist Users |
+
 
 Each item in the dataset is **manually classified** and **double-reviewed** to ensure quality and diversity.
 
