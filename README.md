@@ -52,7 +52,7 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 
 ## ⚠️Disclaimer
 
-This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. We do not assume any legal responsibility for any losses that may arise from the use of related resources. Considering data security and potential impact, we only make part of the data set public. If you need all the data, please contact the author.
+This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. Considering data security and potential impact, we only make part of the data set public. If you need all the data, please contact the author.
 
 
 
