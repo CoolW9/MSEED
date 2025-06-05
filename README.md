@@ -40,3 +40,17 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 
 ### 📁 数据集目录 Dataset Structure
 
+
+
+
+---
+
+## 📄 License
+
+This project is licensed for **non-commercial academic use only**. Please see the [LICENSE](./LICENSE) file for full terms.
+
+---
+
+## ⚠️ 免责声明 Disclaimer
+
+***This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. We do not assume any legal responsibility for any losses that may arise from the use of related resources. Due to the sensitive data involved, we are temporarily only open-sourcing part of the data set. If you need all the data, please contact the author. ***
