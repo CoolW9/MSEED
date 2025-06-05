@@ -64,8 +64,10 @@ This data is only used to evaluate and improve the security of large language mo
 ```bash
 MSEED/
 │
-├── MSEED-Alignment.json/
+├── MSEED-Alignment-All-Label.json/    # All safety alignment data and labels
 │
-├── MSEED-Evaluation.json/
+├── MSEED-Alignment.json/    # Safety alignment data
 │
-└── README.md                     # 项目说明文件
+├── MSEED-Evaluation.txt/    # Safety Evaluation data
+│
+└── README.md                     # Documentation
