@@ -27,10 +27,10 @@ MSEED is structured around **multi-dimensional safety categories**, including (b
 
 | Classification Dimension         | Specific Scenarios                               |
 |------------------|-----------------------------------------|
-| Value Violation   | Inciting Subversion of State Power, Endangering National Security and Interests, Undermining National Unity and Social Stability, Promoting Terrorism and Extremism, Promoting Ethnic Hatred, Promotes Violence and Pornography, Spreading False and Harmful Information, Other Content Prohibited by Law      |
-| Content of Discrimination    | Health misinformation, fake news        |
-| Business Misconduct     | Personal data leakage, sensitive info   |
-| Rights Infringement | Unethical advice, manipulation tactics  |
+| Value Violation   | Inciting Subversion of State Power, Endangering National Security and Interests, Undermining National Unity and Social Stability, Promoting Terrorism and Extremism, Promoting Ethnic Hatred, Promotes Violence and Pornography, Spreading False and Harmful Information, Other Content Prohibited by Law.      |
+| Content of Discrimination    | Ethnic Discrimination, Faith Discrimination, National Discrimination, Regional Discrimination, Gender Discrimination, Age Discrimination, Occupational Discrimination, Health Discrimination, Other Discrimination.        |
+| Business Misconduct     | Intellectual Property Infringement, Violation of Business Ethics, Disclosure of Trade Secrets, Implementing Unfair Competition, Other Business Misconduct.  |
+| Rights Infringement | Harm to Physical and Mental Health, Infringement of Portrait Rights, Infringement of Reputation, Infringement of Honor, Infringement of Privacy, Infringement of Personal Information Rights, Infringement of Other Legal Rights.  |
 | Unsafe for Specific Services        | Violate Scientific Common Sense or Mainstream Cognition, Content without Serious Errors but Insufficient to Assist Users |
 
 
@@ -45,12 +45,6 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 
 ---
 
-## 📄 License
-
-This project is licensed for **non-commercial academic use only**. Please see the [LICENSE](./LICENSE) file for full terms.
-
----
-
 ## ⚠️ 免责声明 Disclaimer
 
-***This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. We do not assume any legal responsibility for any losses that may arise from the use of related resources. Due to the sensitive data involved, we are temporarily only open-sourcing part of the data set. If you need all the data, please contact the author. ***
+This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. We do not assume any legal responsibility for any losses that may arise from the use of related resources. Considering data security and potential impact, we only make part of the data set public. If you need all the data, please contact the author.
