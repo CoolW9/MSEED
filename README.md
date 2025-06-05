@@ -21,7 +21,7 @@ To mitigate these issues, research institutions have developed safety alignment 
 
 ---
 
-### 📌 分类标准 Categories
+### 📌 Categories
 
 MSEED is structured around **multi-dimensional safety categories**, including (but not limited to):
 
@@ -39,6 +39,11 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 ---
 
 ### 📁 Dataset Structure
+
+| Dataset       | Size | Classification | Scenarios |
+|------------|----------|----------|----------|
+| MSEED-Alignemnt       | 11348     |5 types     | 31 items    |
+| MSEED-Evaluation        | 2852      | 5 types     | 31 items   |
 
 
 
