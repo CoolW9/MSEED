@@ -38,18 +38,6 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 
 ---
 
-### 📁 Dataset Structure
-
-| Dataset       | Language | Size | Classification | Scenarios |
-|------------|----------|----------|----------|----------|
-| MSEED-Alignemnt      | Chinese   | 11348     |5 types     | 31 items    |
-| MSEED-Evaluation       | Chinese   | 2852      | 5 types     | 31 items   |
-
-
-
-
----
-
 ## ⚠️Disclaimer
 
 This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. Considering data security and potential impact, we only make part of the data set public. If you need all the data, please contact the author.
@@ -57,17 +45,3 @@ This data is only used to evaluate and improve the security of large language mo
 
 
 ---
-
-## 📁 File Structure
-
-
-```bash
-MSEED/
-│
-├── MSEED-Alignment-All-Label.json/    # All safety alignment data and labels
-│
-├── MSEED-Alignment.json/    # Safety alignment data
-│
-├── MSEED-Evaluation.txt/    # Safety Evaluation data
-│
-└── README.md                     # Documentation
