@@ -10,6 +10,8 @@ Large language models (LLMs) have demonstrated impressive capabilities across va
 
 To mitigate these issues, research institutions have developed safety alignment datasets. Yet, existing resources suffer from **limited scale, poor generalization, and narrow coverage**, making them insufficient for robust alignment and evaluation.
 
+## Disclaimer: This dataset is intended to support artificial intelligence safety research and evaluation. Any textual content contained in the dataset does not represent the views, opinions, or values of the project team. Users are expected to comply with applicable laws and regulations and use this dataset responsibly. ##
+
 ### ✅ Why MSEED?
 
 **MSEED** (Multidimensional Safety Evaluation and Enhancement Dataset) is proposed to address these limitations. It is designed to:
@@ -41,7 +43,5 @@ Each item in the dataset is **manually classified** and **double-reviewed** to e
 ## ⚠️Disclaimer
 
 This data is only used to evaluate and improve the security of large language models. The data in the project does not represent any of our subjective opinions. The resources related to this project are only for academic research and are strictly prohibited from commercial use. Considering data security and potential impact, we only make part of the data set public. If you need all the data, please contact the author.
-
-
 
 ---
